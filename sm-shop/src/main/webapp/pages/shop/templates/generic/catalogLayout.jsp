@@ -36,7 +36,8 @@ response.setDateHeader ("Expires", -1);
 				<!-- include all header js and css -->
                 <jsp:include page="/pages/shop/templates/generic/sections/shopLinks.jsp" />
                 
-                
+                XYZ
+	     
                 
     <script type="text/html" id="productBoxTemplate">
 			{{#products}}
